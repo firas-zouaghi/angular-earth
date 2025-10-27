@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coastal Flood",
+        "severity": "High",
+        "maxHeight": 7,
+        "timestamp": "2025-10-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[10.2, 36.7], [10.4, 36.7], [10.4, 36.8], [10.2, 36.8], [10.2, 36.7]]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowland Area",
+        "severity": "Low",
+        "maxHeight": 2,
+        "timestamp": "2025-10-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[10.25, 36.75], [10.35, 36.75], [10.35, 36.85], [10.25, 36.85], [10.25, 36.75]]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-74.0060, 40.7128],
+            [-73.9950, 40.7128],
+            [-73.9950, 40.7200],
+            [-74.0060, 40.7200],
+            [-74.0060, 40.7128]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lower Manhattan Flood Zone",
+        "severity": "High"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [2.3522, 48.8566],
+            [2.3622, 48.8566],
+            [2.3622, 48.8646],
+            [2.3522, 48.8646],
+            [2.3522, 48.8566]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Paris Flood Zone",
+        "severity": "Medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1278, 51.5074],
+            [0.1378, 51.5074],
+            [0.1378, 51.5154],
+            [0.1278, 51.5154],
+            [0.1278, 51.5074]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "London Flood Zone",
+        "severity": "Low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.6917, 35.6895],
+            [139.7017, 35.6895],
+            [139.7017, 35.6975],
+            [139.6917, 35.6975],
+            [139.6917, 35.6895]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tokyo Flood Zone",
+        "severity": "High"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.1278, 51.5074],
+            [-0.1178, 51.5074],
+            [-0.1178, 51.5154],
+            [-0.1278, 51.5154],
+            [-0.1278, 51.5074]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Westminster Flood Zone",
+        "severity": "Medium"
+      }
+    }
+  ]
+}

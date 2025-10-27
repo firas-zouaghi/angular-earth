@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Flood",
+        "severity": "High",
+        "maxHeight": 5,
+        "timestamp": "2025-10-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[10.0, 36.8], [10.1, 36.8], [10.1, 36.9], [10.0, 36.9], [10.0, 36.8]]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside Area",
+        "severity": "Medium",
+        "maxHeight": 3,
+        "timestamp": "2025-10-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[10.05, 36.85], [10.15, 36.85], [10.15, 36.95], [10.05, 36.95], [10.05, 36.85]]
+        ]
+      }
+    }
+  ]
+}
